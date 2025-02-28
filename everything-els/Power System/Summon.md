@@ -1,0 +1,5 @@
+summon adalah kekuatan dimana tidak semua orang yang memiliki effect dari [[Mirastone]] bisa melakukannya, summon adalah kekuatan pemanggil mahkluk hidup seperti bisa memanggil goblin untuk menggunakannya dalam pertarungan atau bahkan memanggil [[Warden]] jika [[Naturally Born]] berhasil mempelajari bagaimana caranya summon.
+
+kekuatan summon sendiri biasanya di gunakan oleh para pengguna sihir dalam peperangan karena dapat membantu sang pengguna dalam situasi berbahaya seperti dalam sejarah [[The Holy War]] yang dimana para penyihir sangat penting untuk membantu sebuah kerajaan dalam situasi peperangan besar
+
+summon sendiri diciptakan oleh [[Mm.Hans Poleon]] sang Mage terhebat dan lulusan dari tempat pendidikan terkenal yaitu [[Collage Of Magister]], beliau adalah seseorang yang berperan penting dalam sejarah peperangan terbesar [[The Holy War]], beliau juga seseorang yang menjelaskan apa itu kekuatan dari [[Cursed Of Crystal]], Mm. sendiri adalah title untuk para lulusan dari [[Collage Of Magister]] dengan artian (Mage Master)

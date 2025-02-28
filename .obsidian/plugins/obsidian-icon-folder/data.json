@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAppWindowMac",
+      "LiAxe",
+      "LiAward",
+      "LiAlignEndVertical"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "everything-els/Kingdom & Civilization/World Of Mirastone.md": "LiAxe",
+  "everything-els/Power System": "LiAlignEndVertical",
+  "everything-els/Power System/Awakening Person.md": "LiAward",
+  "everything-els/Power System/Power System.md": "LiAward",
+  "everything-els/Character Template/Character-Sheet.md": "LiAppWindowMac",
+  "everything-els/Character": "LiAlignEndVertical"
+}

@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"4bc185f6baee80f7","type":"text","text":"Green = Common","x":-885,"y":-480,"width":250,"height":60,"color":"4"},
+		{"id":"ee3ca28b90472394","type":"text","text":"Blue = Rare","x":-540,"y":-480,"width":250,"height":60,"color":"#0008ff"},
+		{"id":"35ddc6cfb5b2b86d","type":"text","text":"Purple = Epic","x":-191,"y":-480,"width":250,"height":60,"color":"6"},
+		{"id":"ac350be6d51c35d2","type":"file","file":"everything-els/Power System/Cursed Of Warden.md","x":-885,"y":-300,"width":420,"height":440},
+		{"id":"7d3e1c55488c528e","type":"text","text":"","x":-885,"y":300,"width":420,"height":340}
+	],
+	"edges":[
+		{"id":"263833a6ceec15a5","fromNode":"ac350be6d51c35d2","fromSide":"bottom","toNode":"7d3e1c55488c528e","toSide":"top"},
+		{"id":"826079fef7b50c2f","fromNode":"4bc185f6baee80f7","fromSide":"right","toNode":"ee3ca28b90472394","toSide":"left"},
+		{"id":"87cada529f73c21e","fromNode":"ee3ca28b90472394","fromSide":"right","toNode":"35ddc6cfb5b2b86d","toSide":"left"}
+	]
+}

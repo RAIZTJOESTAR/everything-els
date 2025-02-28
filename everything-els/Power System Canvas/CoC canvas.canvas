@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"ccc8dd2bdca3ed0b","x":-3229,"y":-760,"width":2869,"height":1180,"type":"group","label":"Cursed Of Crystal "},
+		{"id":"cc69ba708fa88a34","type":"file","file":"everything-els/Power System/Cursed Of Crystal.md","x":-3080,"y":-600,"width":400,"height":400,"color":"#ffffff"},
+		{"id":"bbfdc28469e88b68","type":"file","file":"everything-els/Power System/Cursed Of Crystal (1).md","x":-2329,"y":-600,"width":440,"height":400,"color":"4"},
+		{"id":"e22e61fecc9a28d9","type":"text","text":"**CURSED OF CRYSTAL**\n\nMirastone tidak hanya memberikan kekuatan sihir, tetapi juga memiliki efek samping yang berbahaya. Pengguna yang tidak bisa mengontrolnya dapat mengalami kulit mengeras seperti kristal, rambut memutih, dan pupil mata yang memudar.\n\nNamun, bagi mereka yang berhasil menguasai Mirastone, kekuatannya bisa dikendalikan sepenuhnya. Mereka yang menguasai Mirastone juga akan memiliki hubungan lebih dekat dengan para dewa, bahkan bisa melihatnya secara langsung.\n\nSebagai contoh, **StormNatch**, dewa petir, memiliki kekuatan absolut dalam pertempuran besar. Jika seseorang bertemu langsung dengannya, mereka bisa mendapatkan sebagian dari sifat atau kekuatannya, tergantung bagaimana interaksi mereka dengan sang dewa.","x":-3209,"y":0,"width":659,"height":400},
+		{"id":"c2dea2ad371b7fdd","type":"file","file":"everything-els/Power System/Cursed Of Crystal (2).md","x":-1560,"y":-600,"width":440,"height":400,"color":"#0011ff"},
+		{"id":"3d402dea9d8169ff","type":"text","text":"Green = Common","x":-3080,"y":-740,"width":250,"height":60,"color":"4"},
+		{"id":"a469e2238e654197","type":"text","text":"Blue = Rare","x":-2735,"y":-740,"width":250,"height":60,"color":"#0008ff"},
+		{"id":"20d2cb81234e255e","type":"text","text":"Purple = Epic","x":-2386,"y":-740,"width":250,"height":60,"color":"6"},
+		{"id":"8254b1f75d4a115f","type":"text","text":"**2x Stats Buff** pada karakter berarti peningkatan dua kali lipat dari atribut yang sudah ada. Misalnya, jika karakter memiliki **movement speed 10**, lalu mendapatkan **buff 1x** dari _Cursed of Crystal_, maka kecepatannya naik menjadi **20**. Jika buff meningkat menjadi **2x**, kecepatannya menjadi **30**. Buff ini berlaku sesuai dengan atribut yang ditingkatkan oleh CoC, seperti refleks, stamina, atau kecepatan gerak.","x":-2360,"y":0,"width":502,"height":220},
+		{"id":"7f458c3ffdc4587c","type":"text","text":"Memberikan player untuk bisa menggunakan spell magic projectile ","x":-1529,"y":0,"width":378,"height":72},
+		{"id":"d9d91e164649aaa9","x":-780,"y":-600,"width":400,"height":400,"color":"6","type":"file","file":"everything-els/Power System/Cursed Of Crystal (3).md"},
+		{"id":"301f060c3b50d21b","x":-706,"y":-20,"width":252,"height":92,"type":"text","text":"Transformasi & [[Warden Bodying]]"}
+	],
+	"edges":[
+		{"id":"8c1e02995ebe49ed","fromNode":"e22e61fecc9a28d9","fromSide":"right","toNode":"bbfdc28469e88b68","toSide":"left","label":"<-- Explanation here"},
+		{"id":"6e4a84e322a7b3b1","fromNode":"bbfdc28469e88b68","fromSide":"bottom","toNode":"8254b1f75d4a115f","toSide":"top","label":"Simple"},
+		{"id":"4c82a7996d093c5b","fromNode":"cc69ba708fa88a34","fromSide":"bottom","toNode":"e22e61fecc9a28d9","toSide":"top","label":"Simple"},
+		{"id":"87cb0f6cf34a25bc","fromNode":"bbfdc28469e88b68","fromSide":"right","toNode":"c2dea2ad371b7fdd","toSide":"left","label":"Up Rank/Level Up"},
+		{"id":"57ce02efee8926d9","fromNode":"3d402dea9d8169ff","fromSide":"right","toNode":"a469e2238e654197","toSide":"left"},
+		{"id":"ae38d1203afac1f7","fromNode":"a469e2238e654197","fromSide":"right","toNode":"20d2cb81234e255e","toSide":"left"},
+		{"id":"5f31e2c7dc3141e2","fromNode":"c2dea2ad371b7fdd","fromSide":"bottom","toNode":"7f458c3ffdc4587c","toSide":"top","label":"Simple"},
+		{"id":"1fecf541acba06a0","fromNode":"c2dea2ad371b7fdd","fromSide":"right","toNode":"d9d91e164649aaa9","toSide":"left","label":"up Rank/Level Up"},
+		{"id":"40eca144a965967d","fromNode":"d9d91e164649aaa9","fromSide":"bottom","toNode":"301f060c3b50d21b","toSide":"top","label":"Simple"}
+	]
+}

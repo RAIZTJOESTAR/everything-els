@@ -1,0 +1,7 @@
+**TAG** : [[Kingdom Of Lilith]]
+*****
+[[Kingdom Of Lilith]] adalah kerajaan dimana lahirnya para Mage berbakat, seperti [[Mm.Hans Poleon]] yang dimana adalah tokoh terpenting dalam sejarah [[The Holy War]], kerajaan Lilith sekarang dipimpin oleh ratu [[Stellaria]] dan [[Kingdom Of Lilith]] memiliki tugas penting yaitu mencoba mengetahui lebih dalam dari kekuatan [[Cursed Of Crystal]] dan [[Cursed Of Warden]] yang dimana kedua kekuatan tersebut masih belum di ketahui apa sebab dan bagaimana itu bisa ada, selain itu, kerajaan lilith sangat membantu kerajaan lain dalam memberikan ilmu pengetahuan tentang [[Mirastone]],
+
+[[Kingdom Of Lilith]] berada di [[Flying Continent]]/Benua di atas langit, benua tersebut bisa mengambang di atas langit karena sumber energi dari [[Mirastone]] sangatlah besar karena Raja sebelum pimpinan darai ratu [[Stellaria]] melakukan experiment besar yang dimana kerajaan ini berhasil membuat sumber kekuatan dari [[Mirastone]] di lipat gandakan dalam skala besar, dan raja yang berhasil membuat experiment berhasil ini adalah raja [[Mira Rosamin]], beliau adalah raja yang memiliki nilai pengetahuan yang sangat tinggi sehingga beliau adalah salah satu raja yang pertama membangun [[Collage Of Magister]].
+
+Beliau juga adalah orang pertama yang berhasil mengungkapkan misteri dari [[Awakening Person]] dan [[Naturally Born]],

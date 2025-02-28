@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "5d153e93fcbc7515",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b8df9293e9f9856",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fb428cdc0cc1b8b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aa862f40fdd9159b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7dc46e92d55bcc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef14ae0e209d9c3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a0f08892ea45ec19",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "15cd476c0cb5e342",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "847c4d9b149984ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5dcd84f5ddb74f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b19308f8887385c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2dd6353c47970d3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cb3b6540f64128f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f719fcd3300d4e4d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "37fc98cd1f939f02",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "8e56470ceabd8c32",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 669.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "8e56470ceabd8c32",
+  "lastOpenFiles": [
+    "everything-els.rar",
+    "everything-els",
+    "everything-els/Excalidraw/Drawing 2025-03-01 02.16.15.excalidraw.md",
+    "everything-els/Excalidraw/Drawing 2025-03-01 02.16.12.excalidraw.md",
+    "everything-els/Things related to my project/Ending Plan (Real Ending).md",
+    "Remote-Blog",
+    "everything-els/Character/Ruas.md",
+    "everything-els/Character/Stellaria.md",
+    "everything-els/Things related to my project/DLC PLAN.md",
+    "everything-els/Power System/Cursed Of Warden.md",
+    "everything-els/Kingdom & Civilization/Collage Of Magister.md",
+    "everything-els/Power System Canvas/Cursed Of Warden.canvas",
+    "everything-els/Things related to my project/RANDOM RATE FROM AI THAT MIGHT HELP ME.md",
+    "everything-els/Things related to my project/Recap and all the thing i must add with gpt.md",
+    "everything-els/Things related to my project/Message That I Hope People Can Get.md",
+    "everything-els/Things related to my project/Rough Note World Of Mirastone.md",
+    "everything-els/Power System Canvas/CoC canvas.canvas",
+    "everything-els/Character/Vyro Bernadette.md",
+    "everything-els/One Handed Sword list/Harpe.md",
+    "everything-els/Power System/Cursed Of Crystal (2).md",
+    "everything-els/Power System/Cursed Of Crystal (1).md",
+    "everything-els/Power System/Cursed Of Crystal.md",
+    "everything-els/Power System/Awakening Person.md",
+    "everything-els/Kingdom & Civilization/World Of Mirastone.md",
+    "everything-els/Character/Baron Lethal.md",
+    "everything-els/Power System/Cursed Of Crystal (3).md",
+    "everything-els/Kingdom & Civilization/Kingdom Of Thamriel.md",
+    "everything-els/Kingdom & Civilization/Kingdom Of Uzuhi.md",
+    "everything-els/Kingdom & Civilization/Laberthal.md",
+    "everything-els/Kingdom & Civilization/Kingdom Of Lilith.md",
+    "everything-els/Warden",
+    "everything-els/image/Screenshot 2025-02-26 at 16-31-15 d330d6f5-4077-48e9-8996-d40352c35d91.webp (Gambar WEBP Image 1024 × 1024 piksel) - Skala (92%).png",
+    "everything-els/image/Pasted image 20250226133715.png",
+    "everything-els/Power System Canvas",
+    "everything-els/Things related to my project",
+    "everything-els/Dagger",
+    "everything-els/One Handed Sword list",
+    "everything-els/image/—Pngtree—crystal ore_7767556.png",
+    "everything-els/Noble",
+    "everything-els/Long Sword List",
+    "—Pngtree—crystal ore_7767556.png",
+    "Untitled.canvas",
+    "everything-els/Excalidraw"
+  ]
+}

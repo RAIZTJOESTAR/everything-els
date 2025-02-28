@@ -1,0 +1,1 @@
+[[Harpe]] adalah pedang pendek legendaris dari seorang [[Knight Of Evalion]] 

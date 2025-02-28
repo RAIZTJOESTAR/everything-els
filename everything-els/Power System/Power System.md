@@ -1,0 +1,6 @@
+1 [[Cursed Of Crystal]]
+2 [[Cursed Of Warden]]
+3 [[FireBlast]]
+4 [[FrostWind]]
+5 [[Summon]]
+6 [[Warden Bodying]]
