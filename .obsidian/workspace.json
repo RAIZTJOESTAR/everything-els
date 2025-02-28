@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b8df9293e9f9856",
+        "id": "f46954c5ee0e3eff",
         "type": "tabs",
         "children": [
           {
-            "id": "3fb428cdc0cc1b8b",
+            "id": "d9b99b5ccfab4aa3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 669.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,11 +181,14 @@
       "graph:Open graph view": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "8e56470ceabd8c32",
+  "active": "ef14ae0e209d9c3f",
   "lastOpenFiles": [
+    "everything-els/Things related to my project/Recap Short Story And Planning.md",
+    "everything-els/Things related to my project/Recap and all the thing i must add with gpt.md",
     "everything-els.rar",
     "everything-els",
     "everything-els/Excalidraw/Drawing 2025-03-01 02.16.15.excalidraw.md",
@@ -199,7 +202,6 @@
     "everything-els/Kingdom & Civilization/Collage Of Magister.md",
     "everything-els/Power System Canvas/Cursed Of Warden.canvas",
     "everything-els/Things related to my project/RANDOM RATE FROM AI THAT MIGHT HELP ME.md",
-    "everything-els/Things related to my project/Recap and all the thing i must add with gpt.md",
     "everything-els/Things related to my project/Message That I Hope People Can Get.md",
     "everything-els/Things related to my project/Rough Note World Of Mirastone.md",
     "everything-els/Power System Canvas/CoC canvas.canvas",
@@ -227,7 +229,6 @@
     "everything-els/Noble",
     "everything-els/Long Sword List",
     "—Pngtree—crystal ore_7767556.png",
-    "Untitled.canvas",
-    "everything-els/Excalidraw"
+    "Untitled.canvas"
   ]
 }
