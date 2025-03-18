@@ -13,3 +13,4 @@ Nordhis adalah Ras normal manusia yang biasa yang tidak memiliki penampilan spec
   - [[Kingdom Of Mirak]] : 90% [[Zhardhis]], 10% [[Furhis]]
   - [[Kingdom Of Thamriel]] : 70% [[Furhis]], 30% [[High Elf]]
   - [[Kingdom Of Gargatoa]] : 60% [[Orchis]], 25% [[Zhardhis]], 15% [[Dark Elf]] 
+

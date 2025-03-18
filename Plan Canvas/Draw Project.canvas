@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"1b266ae5b46d4bee","type":"group","x":-800,"y":-371,"width":1750,"height":781,"label":"Learn To Draw "},
+		{"id":"7eaa5991098ec983","type":"text","text":"Object Draw untill its better","x":-420,"y":-300,"width":250,"height":60},
+		{"id":"c5f588b3f12c60d0","type":"text","text":"landscape if can","x":-420,"y":80,"width":250,"height":60},
+		{"id":"092bb6ba173faae4","type":"text","text":"Draw Faces with anime style","x":-40,"y":80,"width":250,"height":60},
+		{"id":"fa81ef05c270adbb","type":"text","text":"more coloring (i got a bit of skill on this)","x":360,"y":70,"width":258,"height":80},
+		{"id":"fd61b14fc6c182db","type":"text","text":"Getting Better At Making Hair (cuz i was so fucking bad at making hair)","x":-55,"y":250,"width":280,"height":140},
+		{"id":"5d0c0b64f78cf84a","type":"text","text":"make [[Vyro Bernadette]] COMES TO LIFE BITCH HAHAHAHAH!!!","x":367,"y":-351,"width":244,"height":103},
+		{"id":"fa54778830f9a3d0","type":"text","text":"Basic Shape Untill Its better","x":-780,"y":-120,"width":250,"height":60},
+		{"id":"53304a39fc7a7f9a","type":"text","text":"Basic Shape/Object With Shade","x":-40,"y":-120,"width":250,"height":60},
+		{"id":"6ca57520d5d5cb1a","type":"text","text":"mastering body anatomy","x":680,"y":220,"width":250,"height":60},
+		{"id":"ea04efa1fdca00a5","type":"text","text":"Learn How armor layer's work, because medieval armor got dozen of layer need to understand","x":362,"y":-140,"width":254,"height":100}
+	],
+	"edges":[
+		{"id":"e29ea2d486a488e8","fromNode":"fa54778830f9a3d0","fromSide":"right","toNode":"7eaa5991098ec983","toSide":"left"},
+		{"id":"535b497f7d87f8cf","fromNode":"fa54778830f9a3d0","fromSide":"right","toNode":"c5f588b3f12c60d0","toSide":"left"},
+		{"id":"0e59221445ace4cd","fromNode":"c5f588b3f12c60d0","fromSide":"top","toNode":"7eaa5991098ec983","toSide":"bottom"},
+		{"id":"4dde98d01c5b54c5","fromNode":"7eaa5991098ec983","fromSide":"bottom","toNode":"c5f588b3f12c60d0","toSide":"top","label":"Gonna Be Same Progres"},
+		{"id":"f0be7f2bc999a9f1","fromNode":"7eaa5991098ec983","fromSide":"right","toNode":"53304a39fc7a7f9a","toSide":"left"},
+		{"id":"0263642148558017","fromNode":"c5f588b3f12c60d0","fromSide":"right","toNode":"53304a39fc7a7f9a","toSide":"left"},
+		{"id":"f668cdd9898143c6","fromNode":"53304a39fc7a7f9a","fromSide":"bottom","toNode":"092bb6ba173faae4","toSide":"top"},
+		{"id":"6b535698806e5589","fromNode":"092bb6ba173faae4","fromSide":"bottom","toNode":"fd61b14fc6c182db","toSide":"top"},
+		{"id":"c6d6c3af9d1ba234","fromNode":"fd61b14fc6c182db","fromSide":"right","toNode":"6ca57520d5d5cb1a","toSide":"bottom","label":"Gonna take a long time progres"},
+		{"id":"b0ceda46f7e49086","fromNode":"6ca57520d5d5cb1a","fromSide":"top","toNode":"fa81ef05c270adbb","toSide":"right"},
+		{"id":"a4b1be7a486fffc1","fromNode":"fa81ef05c270adbb","fromSide":"top","toNode":"ea04efa1fdca00a5","toSide":"bottom"},
+		{"id":"7ff14751ee254eb5","fromNode":"ea04efa1fdca00a5","fromSide":"top","toNode":"5d0c0b64f78cf84a","toSide":"bottom"}
+	]
+}

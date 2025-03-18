@@ -257,3 +257,11 @@ Jadi, DLC ini bakal memperlihatkan **bagaimana Rhina selalu mencari MC setelah M
 ✅ **Memberikan lebih banyak latar belakang tentang College of Magister dan kerajaan Lilith.**  
 ✅ **Membuat kematian MC di ending utama semakin tragis karena kita tahu bahwa Rhina sudah mencarinya begitu lama.**  
 ✅ **Menambahkan elemen eksplorasi dan investigasi, memberikan pengalaman gameplay yang unik dibandingkan main story.**
+
+
+
+
+
+# Other Plan For The DLC
+
+Save it for later

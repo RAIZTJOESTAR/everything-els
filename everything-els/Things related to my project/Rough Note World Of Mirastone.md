@@ -23,3 +23,7 @@ and maybe after i wrote this, i will continuing my work to wrote or explaining t
 
 
 2/26/2025 lot of thing change, just check em out.
+
+wow its nice to have a new keyboard
+
+3/17/2025 Today im trying to continue my work on character development, because is not enough and nevel feels enough of doing it, need other people problem at their life and tell their problem to me for my inspiration of character development for other heroin or side character or even an important character such as [[Historycal Character]] for the people in the [[Kingdom Of Uzuhi]] and [[Kingdom Of Lilith]], because the two of it has a great kingdom background story and lore, and yet, im not good enough for doing it........
