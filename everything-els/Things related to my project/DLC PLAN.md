@@ -130,7 +130,7 @@ DLC ini bisa memperdalam karakter rival MC, memperlihatkan **bagaimana dia berke
 
 
 # My Dear Rhina
-Jadi, DLC ini bakal memperlihatkan **bagaimana Rhina selalu mencari MC setelah MC keluar dari [[Collage Of Magister]]. Ini juga bisa ngasih lebih banyak konteks tentang hubungan mereka **sebelum** dan **setelah reuni di Lilith**.
+Jadi, DLC ini bakal memperlihatkan **bagaimana Rhina selalu mencari MC setelah MC keluar dari [[College Of Magister]]. Ini juga bisa ngasih lebih banyak konteks tentang hubungan mereka **sebelum** dan **setelah reuni di Lilith**.
 
 ---
 
@@ -265,3 +265,5 @@ Jadi, DLC ini bakal memperlihatkan **bagaimana Rhina selalu mencari MC setelah M
 # Other Plan For The DLC
 
 Save it for later
+> let down and hanging around
+> 

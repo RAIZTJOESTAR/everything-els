@@ -18,7 +18,7 @@ Namun, ada **konsekuensi besar**:
 
 MC mulai sadar bahwa dia sudah mulai **kehilangan ingatan**, ditandai dengan kejadian **lupa rencana mengajak heroin (Rhina) makan di Tradeyard Evalion**. Untungnya, dia sebelumnya menulisnya dalam **to-do list**, jadi dia bisa mengingat kembali.
 
-Mengetahui efek ini bisa menjadi lebih buruk, MC mulai **mencari solusi sebelum perang melawan Evalion**. Dia mendapat informasi dari seorang **sejarawan dari Lilith bernama Merwa Poleon** bahwa ada **satu artefak yang bisa mengembalikan ingatan**.
+Mengetahui efek ini bisa menjadi lebih buruk, MC mulai **mencari solusi sebelum perang melawan Evalion**. Dia mendapat informasi dari seorang **sejarawan dari Lilith bernama** [[Merwa Poleon]] bahwa ada **satu artefak yang bisa mengembalikan ingatan**.
 
 Artefak itu dijaga oleh **Arteza**, seekor **naga hitam terkuat** yang tinggal di dalam **gunung aktif**, tempat yang hampir mustahil dimasuki.
 
@@ -62,7 +62,7 @@ Saat memancing Arteza universe lain ke portal, **MC hampir tersedot ke Void Dime
 Akhirnya, **kedua Arteza bertarung**, dan **Arteza universe lain menang**.
 
 
-# 5 **Artefak Berhasil Didapatkan, Tapi Ada Harga yang Harus Dibayar?**
+#  **Artefak Berhasil Didapatkan, Tapi Ada Harga yang Harus Dibayar?**
 
 MC akhirnya berhasil mendapatkan artefak itu, tetapi... **apakah ada efek samping dari interaksinya dengan Void Dimension?** 🤔
 

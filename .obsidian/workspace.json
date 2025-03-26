@@ -4,53 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "a65c8e40336444e2",
-        "type": "tabs",
+        "id": "9af4b269202fc104",
+        "type": "split",
         "children": [
           {
-            "id": "98e80f92384c23d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "everything-els/Things related to my project/Time & Dimention (Explanation).md",
-                "mode": "source",
-                "source": false
+            "id": "48192ad1518b187e",
+            "type": "tabs",
+            "dimension": 68.85593220338983,
+            "children": [
+              {
+                "id": "b9255ff4e498dbfe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "The Novel/World Of Mirastone/Chapter 1 - Bernadette.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Chapter 1 - Bernadette"
+                }
               },
-              "icon": "lucide-file",
-              "title": "Time & Dimention (Explanation)"
-            }
+              {
+                "id": "04c9ebb37d0c88e7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "everything-els/Things related to my project/Rough Note World Of Mirastone.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Rough Note World Of Mirastone"
+                }
+              }
+            ]
           },
           {
-            "id": "c9b4965e7f7e338b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Questions List For The Project.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions List For The Project"
-            }
-          },
-          {
-            "id": "eb2e12bbbcd35466",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "copy.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "copy"
-            }
+            "id": "27e108fe44822ac4",
+            "type": "tabs",
+            "dimension": 31.144067796610166,
+            "children": [
+              {
+                "id": "253a6cc6690e5cd0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "everything-els/Things related to my project/Questions List.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Questions List"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -102,6 +116,32 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "8dc7b28108178d61",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      },
+      {
+        "id": "25d5fff721438db0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0076edaf422f2ebc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -141,12 +181,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from copy"
+              "title": "Outgoing links"
             }
           },
           {
@@ -170,12 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "The Novel/World Of Mirastone/Chapter 1 - Bernadette.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chapter 1 - Bernadette"
             }
           },
           {
@@ -203,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,41 +257,48 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "yet-another-obsidian-synchronizer:YAOS": false,
       "obsidian-git:Open Git source control": false,
-      "3d-graph:3D Graph": false
+      "3d-graph:3D Graph": false,
+      "obsidian-kanban:Create new board": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "2dd6353c47970d3e",
+  "active": "b9255ff4e498dbfe",
   "lastOpenFiles": [
-    "copy.md",
-    "Questions List For The Project.md",
-    "everything-els/Things related to my project/Time & Dimention (Explanation).md",
+    "everything-els/Things related to my project/Questions List.md",
     "everything-els/Things related to my project/Rough Note World Of Mirastone.md",
-    "Historycal Character.md",
-    "everything-els/Event/210 Genocide.md",
-    "everything-els/Event/The Holy War.md",
-    "everything-els/Character/WilliamTravesal.md",
-    "everything-els/Character/Vyro Bernadette.md",
-    "everything-els/Character/Stellaria.md",
-    "everything-els/Character/Sophia Kenneth.md",
-    "everything-els/Character/Rosamin Poleon.md",
-    "everything-els/Character/Mm.Hans Poleon.md",
-    "everything-els/Races/Dark Elf.md",
-    "everything-els/Power System/Warden Bodying.md",
-    "everything-els/Power System/Power System.md",
-    "everything-els/Power System/Warden.md",
-    "everything-els/Power System/Cursed Of Crystal (3).md",
-    "everything-els/Power System/Cursed Of Crystal (2).md",
-    "everything-els/Power System/Cursed Of Crystal (1).md",
-    "everything-els/Power System/Cursed Of Crystal.md",
-    "everything-els/Power System/Awakening Person.md",
-    "everything-els/Power System Canvas/CoC canvas.canvas",
-    "everything-els/Kingdom & Civilization/World Of Mirastone.md",
-    "Plan Canvas/Vyro Bernadette.canvas",
+    "everything-els/Things related to my project/The Answer's.md",
+    "The Novel/World Of Mirastone/Chapter 1 - Bernadette.md",
+    "Baron Rashlan.md",
+    "The Novel/World Of Mirastone/Bernadette.md",
+    "Excalidraw/Drawing 2025-03-25 16.04.30.excalidraw.md",
+    "Excalidraw",
+    "The Novel/World Of Mirastone/Index.md",
+    "The Novel/Bernadette.md",
+    "The Novel/Chapter 1 - Bernadette.md",
+    "everything-els/Character/Keshya Baron.md",
+    "The Novel/World Of Mirastone",
+    "everything-els/Character/Character List.md",
+    "everything-els/Character/Baron Lethal.md",
+    "Untitled/ALL CONTENT IDEA.md",
+    "everything-els/Things related to my project/DLC PLAN.md",
     "everything-els/Things related to my project/Recap Short Story And Planning.md",
     "everything-els/Things related to my project/RANDOM RATE FROM AI THAT MIGHT HELP ME.md",
-    "everything-els/Things related to my project/Message That I Hope People Can Get.md",
+    "everything-els/Power System/Power System.md",
+    "everything-els/Power System/FrostWind.md",
+    "everything-els/Power System/FireBlast.md",
+    "everything-els/Power System/Cursed Of Crystal (3).md",
+    "everything-els/Kingdom & Civilization/College Of Magister.md",
+    "everything-els/Character/Rohan Liebert.md",
+    "everything-els/Character/Vyro Bernadette.md",
+    "everything-els/Event/210 Genocide.md",
+    "everything-els/Event/The Holy War.md",
+    "Untitled",
+    "The Novel",
+    "Plan Canvas/Vyro Bernadette.canvas",
     "Plan Canvas/Draw Project.canvas",
     "everything-els/Power System Canvas/Cursed Of Warden.canvas",
+    "everything-els/Power System Canvas/CoC canvas.canvas",
     "Plan Canvas",
     "everything-els.rar",
     "everything-els",
@@ -259,11 +307,7 @@
     "everything-els/image/Screenshot 2025-02-26 at 16-31-15 d330d6f5-4077-48e9-8996-d40352c35d91.webp (Gambar WEBP Image 1024 × 1024 piksel) - Skala (92%).png",
     "everything-els/image/Pasted image 20250226133715.png",
     "everything-els/Power System Canvas",
-    "everything-els/Things related to my project",
-    "everything-els/Dagger",
-    "everything-els/One Handed Sword list",
     "everything-els/image/—Pngtree—crystal ore_7767556.png",
-    "everything-els/Noble",
     "—Pngtree—crystal ore_7767556.png"
   ]
 }
