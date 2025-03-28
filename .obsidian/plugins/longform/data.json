@@ -6,6 +6,33 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2025-03-28T04:05:21.383Z",
+      "total": 1021,
+      "drafts": {
+        "The Novel/World Of Mirastone/Index.md": {
+          "total": 1021,
+          "scenes": {
+            "Chapter 1 - Bernadette": 0,
+            "Bernadette": 1021,
+            "Rhina": 0
+          }
+        }
+      }
+    },
+    {
+      "start": "2025-03-26T22:20:24.183Z",
+      "total": 0,
+      "drafts": {
+        "The Novel/World Of Mirastone/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Chapter 1 - Bernadette": 0,
+            "Bernadette": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2025-03-26T14:32:24.360Z",
       "total": 0,
       "drafts": {

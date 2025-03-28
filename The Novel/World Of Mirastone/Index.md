@@ -7,5 +7,6 @@ longform:
   scenes:
     - Chapter 1 - Bernadette
     - Bernadette
+    - Rhina
   ignoredFiles: []
 ---

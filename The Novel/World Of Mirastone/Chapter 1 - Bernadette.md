@@ -1,5 +1,5 @@
 	3/23/2025 - 3/24/2025 (end of writing)
-Something EL's
+	Something EL's
 *****
 
 Ada satu keluarga sederhana yang tinggal di [[Kingdom Of Evalion]], keluarga Bernadette adalah keluarga yang hidup harmonis, sepasang suami istri yang bernama [[Charles Bernadette]] dan [[Sophia Kenneth]] memiliki anak yang di beri nama [[Vyro Bernadette]] lahir dengan sehat pada bulan januari tanggal 25 tahun 205, ayah dari Vyro yaitu Charles bekerja di militer kerajaan dan memegang kendali sebagai pengaman garda depan di gerbang pintu masuk kerajaan, sang ibu yaitu Sophia juga bekerja sebagai Tavern Keeper karena keluarga Bernadette memilki bisnis keluarga dengan membuka Tavern di Kingdom Of Evalion,

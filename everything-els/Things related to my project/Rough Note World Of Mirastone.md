@@ -111,3 +111,58 @@ dan saya juga baru mempelajari cara agar dialog lebih menarik yaitu dengan mengg
 mencari inspirasi melalui buku orang lain atau dengan cara bermain game juga bisa membatu kita untuk membuat cerita novel.
 *******
 
+Dari segi worldbuilding - struktur sekolah yang sudah di buat sudah sangat jelas, seperti adanya kategori murid, kurikulum, aturan dan ujian akhir
+
+Karakteristik - Kehidupan [[Vyro Bernadette]] di [[College Of Magister]] sudah sangat teratur dan sudah dalam jangka planning, tetapi, untuk mengurangi feel monoton, perlu ada beberapa tambahan agar membut suana sekolah lebih menarik,                                                         
+
+konflik dan tambahan menarik - mana sensor bisa membuka peluang plot twist, investigasi, dan situasi darurat sekolah.
+
+##### adanya evaluator rahasia
+
+mana sensor tidak hanya otomatis, tetapi perlu di pantau oleh mentor senior atau guru secara real -  time.
+
+jika terkena suatu tindakan kecurangan dari beberapa pihak, maka hasil nilai ujian akhir akan sangat berpengaruh
+
+## Kemungkinan Plot Twist Dalam Event.
+
+- seseorang meretas/mencurangi cara bekerja mana sensor pada saat ujian akhir.
+- Mana sensor juga bisa mendeteksi apakah seorang melanggar aturan namun tidak di ketahui cara agar mana sensor itu sedang merekam seluruh kejadian/penggunaan mana pada saat ujian akhir.
+
+----
+karena kristal ini terhubung langsung ke dalam pusat kekuatan sekolah, maka kristal ini juga membantu mana sensor dalam perekaman aktifitas setiap member saat melakukan ujian akhir.
+
+Kristal ini berbentuk sebuah  bongkahan panjang berukuran 20cm berwarna biru terang,
+kristal ini di kembangkan oleh [[Mm.Hans Poleon]]
+
+kristal ini akan di berikan ke semua murid pada saat menjalani Field Mission/ujian akhir sekolah di [[College Of Magister]].
+
+## Bagaimana sekolah bisa mengetahui hasil ujian?
+
+Diberikannya Kristal pemantau dan secara diam diam juga sudah di Blessing dengan Mana sensor.
+*****
+
+Field Mission dan evaluasi.
+- Sama rata, tetapi ada tantangan tambahan - seperti mencegah ada team merasa di rugikan denga tugas yang lebih berat.
+- Bonus nilai jika mengatasi sesuatu di atas/luar jangkauan rank sekolah, ini memberikan insentif' bagi para siswa untuk berpikir strategis.
+
+## Kompetisi 1x Hit = Kalah
+
+Apakah ada sistem pertahanan seperti barrier atau armor agar duel tidak berakhir terlalu cepat?
+
+Bagaimana jika peserta memiliki teknik bertahan seperti teleportasi atau refleksi serangan?
+
+Apakah ada batasan tertentu untuk menghindari eksploitasi aturan?
+
+Convert to [[Questions List]]
+
+____
+Kompetisi campuran - apakah mentor/senior membantu pada saat sekolah sedang menjalankan Field mission? 
+
+Tentu saja.
+
+****
+
+3/28/2025 - Baru saja menyelesaikan representasi untuk [[Arteza]]
+
+3/28/2025 - [[Bernadette]] sudah selesai dan di upload di wattpad, di chapter tersebut saya membuka beberapa peluang, seperti adanya kemungkinan penambahan plot dan lain lain yang memungkinkan cerita jadi semakin panjang
+
